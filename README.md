@@ -16,3 +16,5 @@ Fork Of BlackCoin : PURE PoS : Cleaned Code
 +Additions of NovaCoin
 
 ------------------------------------------------------------
+Wallet installing guide: https://github.com/codGmer/IdealCoin-Github/wiki
+Or on the wiki page.
